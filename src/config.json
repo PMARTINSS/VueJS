@@ -1,0 +1,10 @@
+{
+    "api_key": "1a8e461ca600108801a986aca91288a9",
+    "api_urls": {
+      "movie_list": "https://api.themoviedb.org/3/movie/popular",
+      "movie_detail": "https://api.themoviedb.org/3/movie/",
+      "photo_path": "https://image.tmdb.org/t/p/w185/"
+    },
+    "language": "fr-FR"
+  }
+  
